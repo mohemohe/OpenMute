@@ -1,0 +1,72 @@
+﻿!() | 
+
+user.name contains "まとめ" | 
+user.name contains "速報" | 
+user.name contains "情報" | 
+user.name contains "攻略" | 
+
+via contains "auto" | 
+(via contains "bot" & !(via contains "tweetbot")) | 
+via contains "robo" | 
+via contains "copy" | 
+via contains "twimaker" | 
+via contains "占" | 
+via contains "診断" | 
+via contains "めうめう" | 
+via contains "宇宙戦争" | 
+via contains "Favstar" | 
+via contains "スタンド" | 
+via contains "tteessttt" | 
+via contains "グランブルー ファンタジー" |
+
+text contains "拡散" | 
+text contains "希望" | 
+text contains "らRT" | 
+text contains "人RT" | 
+text contains "フォローよ" | 
+text contains "フォローお" | 
+text contains "もしかしてだけど" | 
+text contains "おはあり" | 
+text contains "おやあり" | 
+text contains "【定期】" | 
+text contains "#follow" |
+text contains "Ingress" | 
+text contains "@DigitalCuko" | 
+text contains "くいなちゃん" | 
+text contains "刀剣乱舞" | 
+text contains "とうらぶ" | 
+text contains "審神者" | 
+text contains "本丸" | 
+text contains "検非違使" | 
+text contains "trybuzz" |
+
+text contains "#symphogear" |
+
+user.screen_name == "1256023" | 
+text contains "@1256023" | 
+user.screen_name == "AntiBayesian" | 
+text contains "@AntiBayesian" | 
+user.screen_name == "AruNya0718" | 
+text contains "@AruNya0718" | 
+user.screen_name == "belkyros" | 
+text contains "@belkyros" | 
+user.screen_name == "blacktails2" | 
+text contains "@blacktails2" | 
+user.screen_name == "dasaboo" | 
+text contains "@dasaboo" | 
+user.screen_name == "EzoeRyou" | 
+text contains "@EzoeRyou" | 
+user.screen_name == "FIFI_Egypt" | 
+text contains "@FIFI_Egypt" | 
+user.screen_name == "haru067" | 
+text contains "@haru067" | 
+user.screen_name == "kazoo04" | 
+text contains "@kazoo04" | 
+user.screen_name == "shp128" | 
+text contains "@shp128" | 
+user.screen_name == "ui_nyan" | 
+text contains "@ui_nyan" | 
+user.screen_name == "yanagidia" | 
+text contains "@yanagidia" | 
+user.screen_name == "yukkuri_sinai" | 
+text contains "@yukkuri_sinai"
