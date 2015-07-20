@@ -41,7 +41,7 @@ text contains "検非違使" |
 text contains "trybuzz" |
 
 text contains "#symphogear" |
-text contains "#ぽよぽよGIFアニメーカー"|
+text contains "#ぽよぽよGIFアニメーカー" |
 
 user.screen_name == "1256023" | 
 text contains "@1256023" | 
