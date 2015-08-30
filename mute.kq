@@ -45,31 +45,33 @@ text contains "#follow" |
 text contains "#symphogear" |
 text contains "#ぽよぽよGIFアニメーカー" |
 
- user.screen_name == "1256023" |
- text contains "@1256023" |
- user.screen_name == "AntiBayesian" |
- text contains "@AntiBayesian" |
- user.screen_name == "AruNya0718" |
- text contains "@AruNya0718" |
- user.screen_name == "belkyros" |
- text contains "@belkyros" |
- user.screen_name == "blacktails2" |
- text contains "@blacktails2" |
- user.screen_name == "dasaboo" |
- text contains "@dasaboo" |
- user.screen_name == "EzoeRyou" |
- text contains "@EzoeRyou" |
- user.screen_name == "FIFI_Egypt" |
- text contains "@FIFI_Egypt" |
- user.screen_name == "haru067" |
- text contains "@haru067" |
- user.screen_name == "kazoo04" |
- text contains "@kazoo04" |
- user.screen_name == "shp128" |
- text contains "@shp128" |
- user.screen_name == "ui_nyan" |
- text contains "@ui_nyan" |
- user.screen_name == "yanagidia" |
- text contains "@yanagidia" |
- user.screen_name == "yukkuri_sinai" |
- text contains "@yukkuri_sinai"
+user.screen_name == "1256023" |
+text contains "@1256023" |
+user.screen_name == "AntiBayesian" |
+text contains "@AntiBayesian" |
+user.screen_name == "AruNya0718" |
+text contains "@AruNya0718" |
+user.screen_name == "avocadohiroshi" |
+text contains "@avocadohiroshi" |
+user.screen_name == "belkyros" |
+text contains "@belkyros" |
+user.screen_name == "blacktails2" |
+text contains "@blacktails2" |
+user.screen_name == "dasaboo" |
+text contains "@dasaboo" |
+user.screen_name == "EzoeRyou" |
+text contains "@EzoeRyou" |
+user.screen_name == "FIFI_Egypt" |
+text contains "@FIFI_Egypt" |
+user.screen_name == "haru067" |
+text contains "@haru067" |
+user.screen_name == "kazoo04" |
+text contains "@kazoo04" |
+user.screen_name == "shp128" |
+text contains "@shp128" |
+user.screen_name == "ui_nyan" |
+text contains "@ui_nyan" |
+user.screen_name == "yanagidia" |
+text contains "@yanagidia" |
+user.screen_name == "yukkuri_sinai" |
+text contains "@yukkuri_sinai"
