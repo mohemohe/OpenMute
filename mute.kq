@@ -44,9 +44,10 @@ text contains "本丸" |
 
 text contains "#black_lagoon" | 
 text contains "#follow" | 
+text contains "#StereoTokyo" | 
 text contains "#symphogear" | 
-text contains "#ぽよぽよGIFアニメーカー" | 
 text contains "#いらすとや" | 
+text contains "#ぽよぽよGIFアニメーカー" | 
 
 text contains "ln.is/" | 
 
