@@ -82,4 +82,6 @@ text contains "@ui_nyan" |
 user.screen_name == "yanagidia" | 
 text contains "@yanagidia" | 
 user.screen_name == "yukkuri_sinai" | 
-text contains "@yukkuri_sinai"
+text contains "@yukkuri_sinai" |
+user.screen_name == "zeha_v" | 
+text contains "@zeha_v"
